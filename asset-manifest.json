@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ra-hw-12_observable_2-main-details/static/css/main.e446ee1f.css",
+    "main.js": "/ra-hw-12_observable_2-main-details/static/js/main.ee73d851.js",
+    "static/js/787.26ce15ce.chunk.js": "/ra-hw-12_observable_2-main-details/static/js/787.26ce15ce.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/ra-hw-12_observable_2-main-details/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/ra-hw-12_observable_2-main-details/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/ra-hw-12_observable_2-main-details/index.html",
+    "static/media/Spiner-circle-red.svg": "/ra-hw-12_observable_2-main-details/static/media/Spiner-circle-red.b9dc2cac68f62bc32bc1be6ff808b465.svg",
+    "main.e446ee1f.css.map": "/ra-hw-12_observable_2-main-details/static/css/main.e446ee1f.css.map",
+    "main.ee73d851.js.map": "/ra-hw-12_observable_2-main-details/static/js/main.ee73d851.js.map",
+    "787.26ce15ce.chunk.js.map": "/ra-hw-12_observable_2-main-details/static/js/787.26ce15ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e446ee1f.css",
+    "static/js/main.ee73d851.js"
+  ]
+}
